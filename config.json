@@ -1,0 +1,17 @@
+{
+  "app": {
+    "static": "/public",
+    "secret": "CHANGE_WITH_YOUR_SECRET"
+  },
+      
+  "database": {
+    "host": "localhost",
+    "name": "mongo-test"
+  },
+
+  "models": {
+      "prefix": "/api",
+      "police": "isUser"
+  }
+
+}

@@ -1,0 +1,85 @@
+# Project-specific
+node_modules
+Cakefile
+npm-debug.log
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# SublimeText
+*.sublime-workspace
+
+# Phpstorm
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans
+nbproject/*
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# Linux
+*~
+
+# OSX
+.DS_Store
+.DS_STORE
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+bower_components/
+
+# Brunch folder for temporary files.
+tmp/
